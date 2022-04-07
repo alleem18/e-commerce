@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    padding:0;
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+    padding: 0rem;
+    margin: 0rem;
+    height: 7rem;
+    width: 100;
+    position: fixed;
+    overflow: hidden;
+    box-shadow: .2rem .2rem lightcoral;
+}
+.navbar-nav{
+    color: black;
+    font-weight: bolder;
+    font-size: larger;
+}
+.main{
+    background-image: url("edu.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100rem;
+    width: 120rem;
+}
